@@ -1,4 +1,4 @@
-# 🚀 Sampaioo Diagnostic Tools - Ultimate Edition (v3.1)
+# 🚀 Sampaioo Diagnostic Tools
 
 O **Sampaioo Diagnostic Tools** é um aplicativo web interativo de diagnóstico e otimização de hardware voltado para Windows. Ele monitora sensores do sistema em tempo real, realiza benchmarks automáticos, calcula estimativas detalhadas de desempenho em jogos e auxilia na manutenção preventiva do PC.
 
